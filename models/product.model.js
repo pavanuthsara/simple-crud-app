@@ -20,7 +20,7 @@ const ProductSchema = mongoose.Schema(
 
         image: {
             type: String,
-            required: FontFaceSetLoadEvent
+            required: false
         }
     },
 
